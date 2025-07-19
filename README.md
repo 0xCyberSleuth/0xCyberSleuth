@@ -81,7 +81,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/manikanta-kumar-makireddi)  
 - 🔍 [GitHub](https://github.com/0xCyberSleuth)  
-- 📧 [Email](mailto:msnvmkkumar96661@gmail.com)  
+- 📧 [msnvmkkumar96661@gmail.com] 
 
 ---
 
