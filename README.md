@@ -6,6 +6,9 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=0xCyberSleuth&color=blue)
+
+---
 
 ### 🧠 About Me
 
