@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Makireddi Manikanta Kumar</h1>
-<h3 align="center">SOC Analyst | Cybersecurity Analyst | VAPT | CEH</h3>
-
 <p align="center">
   <img src="https://github.com/0xCyberSleuth/0xCyberSleuth/blob/main/assets/banner.png" alt="CyberSleuth Banner" />
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Makireddi Manikanta Kumar</h1>
+<h3 align="center">SOC Analyst | Cybersecurity Analyst | VAPT | CEH</h3>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=0xCyberSleuth&color=blue)
 
 ---
